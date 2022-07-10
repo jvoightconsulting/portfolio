@@ -1,4 +1,4 @@
-#Welcome to the world of Voight Consulting!
+# Welcome to the world of Voight Consulting!
 I am a young CS student working to build my consulting business as I expand my knowledge of full-stack web development.
 
 This repository will store my portfolio website with a list of all past, present, and upcoming projects I have worked on.
